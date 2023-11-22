@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sqlite_Demo</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="retrieve_button_text">Retrieve Users</string>
+    <string name="delete_button_text">Delete User</string>
+</resources>
